@@ -2,7 +2,7 @@
 
 *Welcome to my profile! I'm here for all things Java and unwind by listening to neo-soul, reading and working out.* 
 
-I have a mild skittles obsession and trying to learn more about mindfulness.
+I am at the beginning of my programming journey and trying to learn more about mindfulness.
 <!--
 **Sheri-bakare1/Sheri-bakare1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
